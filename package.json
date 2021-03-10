@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/koval-andrey/goit-js-hw-12-countries/issues"
   },
-  "homepage": "https://github.com/koval-andrey/goit-js-hw-12-countries#readme",
+  "homepage": "https://koval-andrey.github.io/goit-js-hw-12-countries/",
   "devDependencies": {
     "@babel/core": "^7.13.10",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
